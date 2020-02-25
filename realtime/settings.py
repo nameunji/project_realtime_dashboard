@@ -22,7 +22,6 @@ ALLOWED_HOSTS = ['*', '13.124.230.230', '13.124.230.230:8000']
 INSTALLED_APPS = [
     'channels',
     'order',
-    'product',
     #    'django.contrib.admin',
     'django.contrib.auth',
     'django.contrib.contenttypes',
