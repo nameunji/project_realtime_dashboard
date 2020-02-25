@@ -1,0 +1,2272 @@
+{
+   "code":"S0000",
+   "data":{
+      "results":[
+         {
+            "id":10566,
+            "name":"테스트상품(익일03시)",
+            "thumbnail":null,
+            "category":{
+               "id":1,
+               "name":"치킨,피자",
+               "pid":0
+            },
+            "shop":{
+               "index_no":53448,
+               "id":"01023564020",
+               "name":"세븐일레븐 테스트용 지점",
+               "ceo":"홍길동",
+               "cp":"01023564020",
+               "phone":"01023564020",
+               "zipcode":"00000",
+               "address":"강원 삼척시 오십천로 496",
+               "address_extra":"23123",
+               "area":"독도리",
+               "description":null,
+               "lng":"131.8656890566638",
+               "lat":"37.24076013740826",
+               "notifiers":"01041865202,01023564020,01042299005",
+               "auto_approve_type":1,
+               "auto_approve_duration":120,
+               "shipping_include":"[\"경북 울릉군 울릉읍 독도안용복길 3\",\"경북 울릉군 울릉읍 독도리 20-2\"]",
+               "shipping_exclude":"[]",
+               "businessnum":null,
+               "franchisee":null,
+               "franchisee_shop_code":null,
+               "profile_checked_at":"2020-02-04 16:52:21",
+               "company":{
+                  "start_time":"00:10:00",
+                  "end_time":"23:59:00",
+                  "open_time":"06:00:00",
+                  "close_time":"01:00:00",
+                  "holiday":null
+               }
+            },
+            "original_price":2000,
+            "price":300,
+            "quantity":0,
+            "start_time":"10:00",
+            "end_time":"03:00",
+            "auto_type":"N",
+            "auto_type_week":[
+               "1",
+               "2",
+               "3",
+               "4",
+               "5"
+            ],
+            "auto_item_count":1,
+            "min_buy_limit":1,
+            "max_buy_limit":2,
+            "description":null,
+            "description_title":null,
+            "pickup_method":[
+               {
+                  "P":"방문포장"
+               },
+               {
+                  "E":"매장식사"
+               }
+            ],
+            "search_keywords":null,
+            "status":"1",
+            "video":null,
+            "created_at":"2020-01-20 12:27:24",
+            "updated_at":"2020-02-12 11:06:16",
+            "images":[
+
+            ],
+            "supplier_code":null,
+            "start_at":"2020-02-06 10:00:00",
+            "end_at":"2020-02-12 03:00:00",
+            "franchisee_code":null,
+            "is_deletable":1,
+            "deleted_at":"2020-02-11 20:10:22",
+            "is_tax":1
+         },
+         {
+            "id":9884,
+            "name":"테스트상품(익일02시)",
+            "thumbnail":"https://i.lastorder.in/2020/01/09/12/10/thumb.xo8y7MKKRC4dLuIc8khD",
+            "category":{
+               "id":10,
+               "name":"반찬,과일",
+               "pid":0
+            },
+            "shop":{
+               "index_no":53448,
+               "id":"01023564020",
+               "name":"세븐일레븐 테스트용 지점",
+               "ceo":"홍길동",
+               "cp":"01023564020",
+               "phone":"01023564020",
+               "zipcode":"00000",
+               "address":"강원 삼척시 오십천로 496",
+               "address_extra":"23123",
+               "area":"독도리",
+               "description":null,
+               "lng":"131.8656890566638",
+               "lat":"37.24076013740826",
+               "notifiers":"01041865202,01023564020,01042299005",
+               "auto_approve_type":1,
+               "auto_approve_duration":120,
+               "shipping_include":"[\"경북 울릉군 울릉읍 독도안용복길 3\",\"경북 울릉군 울릉읍 독도리 20-2\"]",
+               "shipping_exclude":"[]",
+               "businessnum":null,
+               "franchisee":null,
+               "franchisee_shop_code":null,
+               "profile_checked_at":"2020-02-04 16:52:21",
+               "company":{
+                  "start_time":"00:10:00",
+                  "end_time":"23:59:00",
+                  "open_time":"06:00:00",
+                  "close_time":"01:00:00",
+                  "holiday":null
+               }
+            },
+            "original_price":1000,
+            "price":100,
+            "quantity":18,
+            "start_time":"17:00",
+            "end_time":"02:00",
+            "auto_type":"N",
+            "auto_type_week":[
+
+            ],
+            "auto_item_count":0,
+            "min_buy_limit":1,
+            "max_buy_limit":2,
+            "description":null,
+            "description_title":null,
+            "pickup_method":[
+               {
+                  "P":"방문포장"
+               },
+               {
+                  "E":"매장식사"
+               }
+            ],
+            "search_keywords":null,
+            "status":"1",
+            "video":null,
+            "created_at":"2020-01-09 12:10:44",
+            "updated_at":"2020-02-06 16:08:22",
+            "images":[
+               "https://i.lastorder.in/2020/01/09/12/10/thumb.XsJTfeG2o2Aqd6rFDu5D",
+               "https://i.lastorder.in/2020/01/09/12/10/thumb.RIJiHhtaTxvdK58eG1oO"
+            ],
+            "supplier_code":null,
+            "start_at":"2020-02-06 17:00:00",
+            "end_at":"2020-02-07 02:00:00",
+            "franchisee_code":null,
+            "is_deletable":0,
+            "deleted_at":null,
+            "is_tax":1
+         },
+         {
+            "id":9222,
+            "name":"테스트상품(악일01시)",
+            "thumbnail":"https://cdn.lastorder.co.kr/shop/2019/12/18/15/59/thumb.sample.png",
+            "category":{
+               "id":1,
+               "name":"치킨,피자",
+               "pid":0
+            },
+            "shop":{
+               "index_no":53448,
+               "id":"01023564020",
+               "name":"세븐일레븐 테스트용 지점",
+               "ceo":"홍길동",
+               "cp":"01023564020",
+               "phone":"01023564020",
+               "zipcode":"00000",
+               "address":"강원 삼척시 오십천로 496",
+               "address_extra":"23123",
+               "area":"독도리",
+               "description":null,
+               "lng":"131.8656890566638",
+               "lat":"37.24076013740826",
+               "notifiers":"01041865202,01023564020,01042299005",
+               "auto_approve_type":1,
+               "auto_approve_duration":120,
+               "shipping_include":"[\"경북 울릉군 울릉읍 독도안용복길 3\",\"경북 울릉군 울릉읍 독도리 20-2\"]",
+               "shipping_exclude":"[]",
+               "businessnum":null,
+               "franchisee":null,
+               "franchisee_shop_code":null,
+               "profile_checked_at":"2020-02-04 16:52:21",
+               "company":{
+                  "start_time":"00:10:00",
+                  "end_time":"23:59:00",
+                  "open_time":"06:00:00",
+                  "close_time":"01:00:00",
+                  "holiday":null
+               }
+            },
+            "original_price":10000,
+            "price":1000,
+            "quantity":19,
+            "start_time":"15:00",
+            "end_time":"01:00",
+            "auto_type":"N",
+            "auto_type_week":[
+
+            ],
+            "auto_item_count":0,
+            "min_buy_limit":1,
+            "max_buy_limit":2,
+            "description":null,
+            "description_title":null,
+            "pickup_method":[
+               {
+                  "P":"방문포장"
+               },
+               {
+                  "E":"매장식사"
+               }
+            ],
+            "search_keywords":null,
+            "status":"1",
+            "video":null,
+            "created_at":"2019-12-18 16:00:03",
+            "updated_at":"2020-02-06 16:54:52",
+            "images":[
+
+            ],
+            "supplier_code":null,
+            "start_at":"2020-02-06 15:00:00",
+            "end_at":"2020-02-07 01:00:00",
+            "franchisee_code":null,
+            "is_deletable":0,
+            "deleted_at":null,
+            "is_tax":1
+         },
+         {
+            "id":9172,
+            "name":"테스트상품(익일00시)",
+            "thumbnail":null,
+            "category":{
+               "id":11,
+               "name":"떡,기타",
+               "pid":0
+            },
+            "shop":{
+               "index_no":53448,
+               "id":"01023564020",
+               "name":"세븐일레븐 테스트용 지점",
+               "ceo":"홍길동",
+               "cp":"01023564020",
+               "phone":"01023564020",
+               "zipcode":"00000",
+               "address":"강원 삼척시 오십천로 496",
+               "address_extra":"23123",
+               "area":"독도리",
+               "description":null,
+               "lng":"131.8656890566638",
+               "lat":"37.24076013740826",
+               "notifiers":"01041865202,01023564020,01042299005",
+               "auto_approve_type":1,
+               "auto_approve_duration":120,
+               "shipping_include":"[\"경북 울릉군 울릉읍 독도안용복길 3\",\"경북 울릉군 울릉읍 독도리 20-2\"]",
+               "shipping_exclude":"[]",
+               "businessnum":null,
+               "franchisee":null,
+               "franchisee_shop_code":null,
+               "profile_checked_at":"2020-02-04 16:52:21",
+               "company":{
+                  "start_time":"00:10:00",
+                  "end_time":"23:59:00",
+                  "open_time":"06:00:00",
+                  "close_time":"01:00:00",
+                  "holiday":null
+               }
+            },
+            "original_price":1000,
+            "price":500,
+            "quantity":15,
+            "start_time":"09:00",
+            "end_time":"00:00",
+            "auto_type":"N",
+            "auto_type_week":[
+
+            ],
+            "auto_item_count":0,
+            "min_buy_limit":1,
+            "max_buy_limit":2,
+            "description":null,
+            "description_title":null,
+            "pickup_method":[
+               {
+                  "P":"방문포장"
+               },
+               {
+                  "E":"매장식사"
+               }
+            ],
+            "search_keywords":null,
+            "status":"1",
+            "video":null,
+            "created_at":"2019-12-17 10:07:24",
+            "updated_at":"2020-02-06 16:21:09",
+            "images":[
+
+            ],
+            "supplier_code":null,
+            "start_at":"2020-02-06 09:00:00",
+            "end_at":"2020-02-07 00:00:00",
+            "franchisee_code":"CU",
+            "is_deletable":0,
+            "deleted_at":null,
+            "is_tax":1
+         },
+         {
+            "id":8139,
+            "name":"테스트상품01",
+            "thumbnail":null,
+            "category":{
+               "id":1,
+               "name":"치킨,피자",
+               "pid":0
+            },
+            "shop":{
+               "index_no":53448,
+               "id":"01023564020",
+               "name":"세븐일레븐 테스트용 지점",
+               "ceo":"홍길동",
+               "cp":"01023564020",
+               "phone":"01023564020",
+               "zipcode":"00000",
+               "address":"강원 삼척시 오십천로 496",
+               "address_extra":"23123",
+               "area":"독도리",
+               "description":null,
+               "lng":"131.8656890566638",
+               "lat":"37.24076013740826",
+               "notifiers":"01041865202,01023564020,01042299005",
+               "auto_approve_type":1,
+               "auto_approve_duration":120,
+               "shipping_include":"[\"경북 울릉군 울릉읍 독도안용복길 3\",\"경북 울릉군 울릉읍 독도리 20-2\"]",
+               "shipping_exclude":"[]",
+               "businessnum":null,
+               "franchisee":null,
+               "franchisee_shop_code":null,
+               "profile_checked_at":"2020-02-04 16:52:21",
+               "company":{
+                  "start_time":"00:10:00",
+                  "end_time":"23:59:00",
+                  "open_time":"06:00:00",
+                  "close_time":"01:00:00",
+                  "holiday":null
+               }
+            },
+            "original_price":600,
+            "price":300,
+            "quantity":1,
+            "start_time":"10:00",
+            "end_time":"23:00",
+            "auto_type":"N",
+            "auto_type_week":[
+               "1",
+               "2",
+               "3",
+               "4",
+               "5"
+            ],
+            "auto_item_count":1,
+            "min_buy_limit":1,
+            "max_buy_limit":2,
+            "description":"상품소개내용 수정 테스트",
+            "description_title":null,
+            "pickup_method":[
+               {
+                  "P":"방문포장"
+               }
+            ],
+            "search_keywords":null,
+            "status":"1",
+            "video":null,
+            "created_at":"2019-11-08 16:54:02",
+            "updated_at":"2020-02-12 11:11:01",
+            "images":[
+
+            ],
+            "supplier_code":null,
+            "start_at":"2020-02-06 10:00:00",
+            "end_at":"2020-03-06 23:00:00",
+            "franchisee_code":null,
+            "is_deletable":1,
+            "deleted_at":null,
+            "is_tax":1
+         },
+         {
+            "id":11998,
+            "name":"롯데)매콤제육김밥",
+            "thumbnail":"https://i.lastorder.in/k7/items/013044.JPG",
+            "category":{
+               "id":14,
+               "name":"간편식사",
+               "pid":12
+            },
+            "shop":{
+               "index_no":53448,
+               "id":"01023564020",
+               "name":"세븐일레븐 테스트용 지점",
+               "ceo":"홍길동",
+               "cp":"01023564020",
+               "phone":"01023564020",
+               "zipcode":"00000",
+               "address":"강원 삼척시 오십천로 496",
+               "address_extra":"23123",
+               "area":"독도리",
+               "description":null,
+               "lng":"131.8656890566638",
+               "lat":"37.24076013740826",
+               "notifiers":"01041865202,01023564020,01042299005",
+               "auto_approve_type":1,
+               "auto_approve_duration":120,
+               "shipping_include":"[\"경북 울릉군 울릉읍 독도안용복길 3\",\"경북 울릉군 울릉읍 독도리 20-2\"]",
+               "shipping_exclude":"[]",
+               "businessnum":null,
+               "franchisee":null,
+               "franchisee_shop_code":null,
+               "profile_checked_at":"2020-02-04 16:52:21",
+               "company":{
+                  "start_time":"00:10:00",
+                  "end_time":"23:59:00",
+                  "open_time":"06:00:00",
+                  "close_time":"01:00:00",
+                  "holiday":null
+               }
+            },
+            "original_price":2000,
+            "price":1400,
+            "quantity":1,
+            "start_time":"15:50",
+            "end_time":"18:40",
+            "auto_type":"N",
+            "auto_type_week":[
+
+            ],
+            "auto_item_count":null,
+            "min_buy_limit":1,
+            "max_buy_limit":3,
+            "description":"롯데)매콤제육김밥",
+            "description_title":null,
+            "pickup_method":[
+               {
+                  "P":"방문포장"
+               }
+            ],
+            "search_keywords":null,
+            "status":"2",
+            "video":null,
+            "created_at":"2020-01-31 16:05:02",
+            "updated_at":"2020-01-31 18:40:22",
+            "images":[
+
+            ],
+            "supplier_code":"880111841734441931",
+            "start_at":"2020-01-31 15:50:00",
+            "end_at":"2020-01-31 18:40:00",
+            "franchisee_code":"K7",
+            "is_deletable":1,
+            "deleted_at":"2020-01-31 18:40:22",
+            "is_tax":1
+         },
+         {
+            "id":11976,
+            "name":"롯데)매콤제육김밥",
+            "thumbnail":"https://i.lastorder.in/k7/items/013044.JPG",
+            "category":{
+               "id":14,
+               "name":"간편식사",
+               "pid":12
+            },
+            "shop":{
+               "index_no":53448,
+               "id":"01023564020",
+               "name":"세븐일레븐 테스트용 지점",
+               "ceo":"홍길동",
+               "cp":"01023564020",
+               "phone":"01023564020",
+               "zipcode":"00000",
+               "address":"강원 삼척시 오십천로 496",
+               "address_extra":"23123",
+               "area":"독도리",
+               "description":null,
+               "lng":"131.8656890566638",
+               "lat":"37.24076013740826",
+               "notifiers":"01041865202,01023564020,01042299005",
+               "auto_approve_type":1,
+               "auto_approve_duration":120,
+               "shipping_include":"[\"경북 울릉군 울릉읍 독도안용복길 3\",\"경북 울릉군 울릉읍 독도리 20-2\"]",
+               "shipping_exclude":"[]",
+               "businessnum":null,
+               "franchisee":null,
+               "franchisee_shop_code":null,
+               "profile_checked_at":"2020-02-04 16:52:21",
+               "company":{
+                  "start_time":"00:10:00",
+                  "end_time":"23:59:00",
+                  "open_time":"06:00:00",
+                  "close_time":"01:00:00",
+                  "holiday":null
+               }
+            },
+            "original_price":2000,
+            "price":1400,
+            "quantity":1,
+            "start_time":"15:50",
+            "end_time":"18:40",
+            "auto_type":"N",
+            "auto_type_week":[
+
+            ],
+            "auto_item_count":null,
+            "min_buy_limit":1,
+            "max_buy_limit":3,
+            "description":"롯데)매콤제육김밥",
+            "description_title":null,
+            "pickup_method":[
+               {
+                  "P":"방문포장"
+               }
+            ],
+            "search_keywords":null,
+            "status":"2",
+            "video":null,
+            "created_at":"2020-01-31 15:57:08",
+            "updated_at":"2020-01-31 18:40:22",
+            "images":[
+
+            ],
+            "supplier_code":"880111841734441931",
+            "start_at":"2020-01-31 15:50:00",
+            "end_at":"2020-01-31 18:40:00",
+            "franchisee_code":"K7",
+            "is_deletable":1,
+            "deleted_at":"2020-01-31 18:40:22",
+            "is_tax":1
+         },
+         {
+            "id":11972,
+            "name":"롯데)매콤제육김밥",
+            "thumbnail":"https://i.lastorder.in/k7/items/013044.JPG",
+            "category":{
+               "id":14,
+               "name":"간편식사",
+               "pid":12
+            },
+            "shop":{
+               "index_no":53448,
+               "id":"01023564020",
+               "name":"세븐일레븐 테스트용 지점",
+               "ceo":"홍길동",
+               "cp":"01023564020",
+               "phone":"01023564020",
+               "zipcode":"00000",
+               "address":"강원 삼척시 오십천로 496",
+               "address_extra":"23123",
+               "area":"독도리",
+               "description":null,
+               "lng":"131.8656890566638",
+               "lat":"37.24076013740826",
+               "notifiers":"01041865202,01023564020,01042299005",
+               "auto_approve_type":1,
+               "auto_approve_duration":120,
+               "shipping_include":"[\"경북 울릉군 울릉읍 독도안용복길 3\",\"경북 울릉군 울릉읍 독도리 20-2\"]",
+               "shipping_exclude":"[]",
+               "businessnum":null,
+               "franchisee":null,
+               "franchisee_shop_code":null,
+               "profile_checked_at":"2020-02-04 16:52:21",
+               "company":{
+                  "start_time":"00:10:00",
+                  "end_time":"23:59:00",
+                  "open_time":"06:00:00",
+                  "close_time":"01:00:00",
+                  "holiday":null
+               }
+            },
+            "original_price":2000,
+            "price":1400,
+            "quantity":1,
+            "start_time":"15:40",
+            "end_time":"18:40",
+            "auto_type":"N",
+            "auto_type_week":[
+
+            ],
+            "auto_item_count":null,
+            "min_buy_limit":1,
+            "max_buy_limit":3,
+            "description":"롯데)매콤제육김밥",
+            "description_title":null,
+            "pickup_method":[
+               {
+                  "P":"방문포장"
+               }
+            ],
+            "search_keywords":null,
+            "status":"2",
+            "video":null,
+            "created_at":"2020-01-31 15:54:46",
+            "updated_at":"2020-01-31 18:40:22",
+            "images":[
+
+            ],
+            "supplier_code":"880111841734441931",
+            "start_at":"2020-01-31 15:40:00",
+            "end_at":"2020-01-31 18:40:00",
+            "franchisee_code":"K7",
+            "is_deletable":1,
+            "deleted_at":"2020-01-31 18:40:22",
+            "is_tax":1
+         },
+         {
+            "id":11925,
+            "name":"테스트",
+            "thumbnail":null,
+            "category":{
+               "id":1,
+               "name":"치킨,피자",
+               "pid":0
+            },
+            "shop":{
+               "index_no":53448,
+               "id":"01023564020",
+               "name":"세븐일레븐 테스트용 지점",
+               "ceo":"홍길동",
+               "cp":"01023564020",
+               "phone":"01023564020",
+               "zipcode":"00000",
+               "address":"강원 삼척시 오십천로 496",
+               "address_extra":"23123",
+               "area":"독도리",
+               "description":null,
+               "lng":"131.8656890566638",
+               "lat":"37.24076013740826",
+               "notifiers":"01041865202,01023564020,01042299005",
+               "auto_approve_type":1,
+               "auto_approve_duration":120,
+               "shipping_include":"[\"경북 울릉군 울릉읍 독도안용복길 3\",\"경북 울릉군 울릉읍 독도리 20-2\"]",
+               "shipping_exclude":"[]",
+               "businessnum":null,
+               "franchisee":null,
+               "franchisee_shop_code":null,
+               "profile_checked_at":"2020-02-04 16:52:21",
+               "company":{
+                  "start_time":"00:10:00",
+                  "end_time":"23:59:00",
+                  "open_time":"06:00:00",
+                  "close_time":"01:00:00",
+                  "holiday":null
+               }
+            },
+            "original_price":1000,
+            "price":100,
+            "quantity":2,
+            "start_time":"13:00",
+            "end_time":"23:50",
+            "auto_type":"N",
+            "auto_type_week":[
+
+            ],
+            "auto_item_count":0,
+            "min_buy_limit":1,
+            "max_buy_limit":2,
+            "description":null,
+            "description_title":null,
+            "pickup_method":[
+               {
+                  "E":"매장식사"
+               },
+               {
+                  "P":"방문포장"
+               }
+            ],
+            "search_keywords":null,
+            "status":"2",
+            "video":null,
+            "created_at":"2020-01-31 14:54:49",
+            "updated_at":"2020-02-03 16:23:19",
+            "images":[
+
+            ],
+            "supplier_code":null,
+            "start_at":"2020-02-01 13:00:00",
+            "end_at":"2020-02-01 23:50:00",
+            "franchisee_code":null,
+            "is_deletable":0,
+            "deleted_at":"2020-02-03 16:23:19",
+            "is_tax":1
+         },
+         {
+            "id":9877,
+            "name":"test",
+            "thumbnail":"https://cdn.lastorder.co.kr/item/2020/01/09/sample01.jpg",
+            "category":{
+               "id":1,
+               "name":"치킨,피자",
+               "pid":0
+            },
+            "shop":{
+               "index_no":53448,
+               "id":"01023564020",
+               "name":"세븐일레븐 테스트용 지점",
+               "ceo":"홍길동",
+               "cp":"01023564020",
+               "phone":"01023564020",
+               "zipcode":"00000",
+               "address":"강원 삼척시 오십천로 496",
+               "address_extra":"23123",
+               "area":"독도리",
+               "description":null,
+               "lng":"131.8656890566638",
+               "lat":"37.24076013740826",
+               "notifiers":"01041865202,01023564020,01042299005",
+               "auto_approve_type":1,
+               "auto_approve_duration":120,
+               "shipping_include":"[\"경북 울릉군 울릉읍 독도안용복길 3\",\"경북 울릉군 울릉읍 독도리 20-2\"]",
+               "shipping_exclude":"[]",
+               "businessnum":null,
+               "franchisee":null,
+               "franchisee_shop_code":null,
+               "profile_checked_at":"2020-02-04 16:52:21",
+               "company":{
+                  "start_time":"00:10:00",
+                  "end_time":"23:59:00",
+                  "open_time":"06:00:00",
+                  "close_time":"01:00:00",
+                  "holiday":null
+               }
+            },
+            "original_price":1000,
+            "price":100,
+            "quantity":10,
+            "start_time":"10:00",
+            "end_time":"23:00",
+            "auto_type":"N",
+            "auto_type_week":[
+
+            ],
+            "auto_item_count":0,
+            "min_buy_limit":1,
+            "max_buy_limit":2,
+            "description":"test",
+            "description_title":null,
+            "pickup_method":[
+               {
+                  "P":"방문포장"
+               }
+            ],
+            "search_keywords":null,
+            "status":"2",
+            "video":null,
+            "created_at":"2020-01-09 10:40:54",
+            "updated_at":"2020-01-21 10:42:11",
+            "images":[
+
+            ],
+            "supplier_code":null,
+            "start_at":"2020-01-09 10:00:00",
+            "end_at":"2020-01-09 23:00:00",
+            "franchisee_code":null,
+            "is_deletable":0,
+            "deleted_at":"2020-01-09 12:09:04",
+            "is_tax":1
+         },
+         {
+            "id":9876,
+            "name":"test",
+            "thumbnail":"https://cdn.lastorder.co.kr/item/2020/01/09/sample01.jpg",
+            "category":{
+               "id":1,
+               "name":"치킨,피자",
+               "pid":0
+            },
+            "shop":{
+               "index_no":53448,
+               "id":"01023564020",
+               "name":"세븐일레븐 테스트용 지점",
+               "ceo":"홍길동",
+               "cp":"01023564020",
+               "phone":"01023564020",
+               "zipcode":"00000",
+               "address":"강원 삼척시 오십천로 496",
+               "address_extra":"23123",
+               "area":"독도리",
+               "description":null,
+               "lng":"131.8656890566638",
+               "lat":"37.24076013740826",
+               "notifiers":"01041865202,01023564020,01042299005",
+               "auto_approve_type":1,
+               "auto_approve_duration":120,
+               "shipping_include":"[\"경북 울릉군 울릉읍 독도안용복길 3\",\"경북 울릉군 울릉읍 독도리 20-2\"]",
+               "shipping_exclude":"[]",
+               "businessnum":null,
+               "franchisee":null,
+               "franchisee_shop_code":null,
+               "profile_checked_at":"2020-02-04 16:52:21",
+               "company":{
+                  "start_time":"00:10:00",
+                  "end_time":"23:59:00",
+                  "open_time":"06:00:00",
+                  "close_time":"01:00:00",
+                  "holiday":null
+               }
+            },
+            "original_price":1000,
+            "price":100,
+            "quantity":10,
+            "start_time":"10:00",
+            "end_time":"23:00",
+            "auto_type":"N",
+            "auto_type_week":[
+
+            ],
+            "auto_item_count":0,
+            "min_buy_limit":1,
+            "max_buy_limit":2,
+            "description":"test",
+            "description_title":null,
+            "pickup_method":[
+               {
+                  "P":"방문포장"
+               }
+            ],
+            "search_keywords":null,
+            "status":"2",
+            "video":null,
+            "created_at":"2020-01-09 10:39:44",
+            "updated_at":"2020-01-21 10:42:11",
+            "images":[
+
+            ],
+            "supplier_code":null,
+            "start_at":null,
+            "end_at":null,
+            "franchisee_code":null,
+            "is_deletable":0,
+            "deleted_at":"2020-01-09 12:09:12",
+            "is_tax":1
+         },
+         {
+            "id":9523,
+            "name":"테스트테스트테스트",
+            "thumbnail":null,
+            "category":{
+               "id":1,
+               "name":"치킨,피자",
+               "pid":0
+            },
+            "shop":{
+               "index_no":53448,
+               "id":"01023564020",
+               "name":"세븐일레븐 테스트용 지점",
+               "ceo":"홍길동",
+               "cp":"01023564020",
+               "phone":"01023564020",
+               "zipcode":"00000",
+               "address":"강원 삼척시 오십천로 496",
+               "address_extra":"23123",
+               "area":"독도리",
+               "description":null,
+               "lng":"131.8656890566638",
+               "lat":"37.24076013740826",
+               "notifiers":"01041865202,01023564020,01042299005",
+               "auto_approve_type":1,
+               "auto_approve_duration":120,
+               "shipping_include":"[\"경북 울릉군 울릉읍 독도안용복길 3\",\"경북 울릉군 울릉읍 독도리 20-2\"]",
+               "shipping_exclude":"[]",
+               "businessnum":null,
+               "franchisee":null,
+               "franchisee_shop_code":null,
+               "profile_checked_at":"2020-02-04 16:52:21",
+               "company":{
+                  "start_time":"00:10:00",
+                  "end_time":"23:59:00",
+                  "open_time":"06:00:00",
+                  "close_time":"01:00:00",
+                  "holiday":null
+               }
+            },
+            "original_price":1000,
+            "price":500,
+            "quantity":1,
+            "start_time":"17:00",
+            "end_time":"22:00",
+            "auto_type":"N",
+            "auto_type_week":[
+
+            ],
+            "auto_item_count":0,
+            "min_buy_limit":1,
+            "max_buy_limit":2,
+            "description":null,
+            "description_title":null,
+            "pickup_method":[
+               {
+                  "E":"매장식사"
+               },
+               {
+                  "P":"방문포장"
+               }
+            ],
+            "search_keywords":null,
+            "status":"2",
+            "video":null,
+            "created_at":"2019-12-30 18:30:35",
+            "updated_at":"2020-01-21 10:42:11",
+            "images":[
+
+            ],
+            "supplier_code":null,
+            "start_at":"2019-12-30 17:00:00",
+            "end_at":"2019-12-30 22:00:00",
+            "franchisee_code":null,
+            "is_deletable":0,
+            "deleted_at":"2019-12-30 18:30:51",
+            "is_tax":1
+         },
+         {
+            "id":9488,
+            "name":"Test",
+            "thumbnail":null,
+            "category":{
+               "id":1,
+               "name":"치킨,피자",
+               "pid":0
+            },
+            "shop":{
+               "index_no":53448,
+               "id":"01023564020",
+               "name":"세븐일레븐 테스트용 지점",
+               "ceo":"홍길동",
+               "cp":"01023564020",
+               "phone":"01023564020",
+               "zipcode":"00000",
+               "address":"강원 삼척시 오십천로 496",
+               "address_extra":"23123",
+               "area":"독도리",
+               "description":null,
+               "lng":"131.8656890566638",
+               "lat":"37.24076013740826",
+               "notifiers":"01041865202,01023564020,01042299005",
+               "auto_approve_type":1,
+               "auto_approve_duration":120,
+               "shipping_include":"[\"경북 울릉군 울릉읍 독도안용복길 3\",\"경북 울릉군 울릉읍 독도리 20-2\"]",
+               "shipping_exclude":"[]",
+               "businessnum":null,
+               "franchisee":null,
+               "franchisee_shop_code":null,
+               "profile_checked_at":"2020-02-04 16:52:21",
+               "company":{
+                  "start_time":"00:10:00",
+                  "end_time":"23:59:00",
+                  "open_time":"06:00:00",
+                  "close_time":"01:00:00",
+                  "holiday":null
+               }
+            },
+            "original_price":1000,
+            "price":700,
+            "quantity":0,
+            "start_time":"17:00",
+            "end_time":"22:00",
+            "auto_type":"N",
+            "auto_type_week":[
+
+            ],
+            "auto_item_count":0,
+            "min_buy_limit":1,
+            "max_buy_limit":2,
+            "description":null,
+            "description_title":null,
+            "pickup_method":[
+               {
+                  "E":"매장식사"
+               },
+               {
+                  "P":"방문포장"
+               }
+            ],
+            "search_keywords":null,
+            "status":"2",
+            "video":null,
+            "created_at":"2019-12-27 16:49:46",
+            "updated_at":"2020-01-21 10:42:11",
+            "images":[
+
+            ],
+            "supplier_code":null,
+            "start_at":null,
+            "end_at":null,
+            "franchisee_code":null,
+            "is_deletable":0,
+            "deleted_at":"2020-01-09 12:09:23",
+            "is_tax":1
+         },
+         {
+            "id":9472,
+            "name":"HEYROO속초홍게라면",
+            "thumbnail":null,
+            "category":{
+               "id":8,
+               "name":"분식,야식",
+               "pid":0
+            },
+            "shop":{
+               "index_no":53448,
+               "id":"01023564020",
+               "name":"세븐일레븐 테스트용 지점",
+               "ceo":"홍길동",
+               "cp":"01023564020",
+               "phone":"01023564020",
+               "zipcode":"00000",
+               "address":"강원 삼척시 오십천로 496",
+               "address_extra":"23123",
+               "area":"독도리",
+               "description":null,
+               "lng":"131.8656890566638",
+               "lat":"37.24076013740826",
+               "notifiers":"01041865202,01023564020,01042299005",
+               "auto_approve_type":1,
+               "auto_approve_duration":120,
+               "shipping_include":"[\"경북 울릉군 울릉읍 독도안용복길 3\",\"경북 울릉군 울릉읍 독도리 20-2\"]",
+               "shipping_exclude":"[]",
+               "businessnum":null,
+               "franchisee":null,
+               "franchisee_shop_code":null,
+               "profile_checked_at":"2020-02-04 16:52:21",
+               "company":{
+                  "start_time":"00:10:00",
+                  "end_time":"23:59:00",
+                  "open_time":"06:00:00",
+                  "close_time":"01:00:00",
+                  "holiday":null
+               }
+            },
+            "original_price":1000,
+            "price":700,
+            "quantity":11,
+            "start_time":"17:00",
+            "end_time":"22:00",
+            "auto_type":"N",
+            "auto_type_week":[
+
+            ],
+            "auto_item_count":0,
+            "min_buy_limit":1,
+            "max_buy_limit":2,
+            "description":null,
+            "description_title":null,
+            "pickup_method":[
+               {
+                  "P":"방문포장"
+               }
+            ],
+            "search_keywords":null,
+            "status":"2",
+            "video":null,
+            "created_at":"2019-12-27 11:28:29",
+            "updated_at":"2020-01-21 10:42:11",
+            "images":[
+
+            ],
+            "supplier_code":null,
+            "start_at":null,
+            "end_at":null,
+            "franchisee_code":null,
+            "is_deletable":0,
+            "deleted_at":"2020-01-02 19:08:10",
+            "is_tax":1
+         },
+         {
+            "id":9471,
+            "name":"롯데) 장군비빔밥",
+            "thumbnail":null,
+            "category":{
+               "id":8,
+               "name":"분식,야식",
+               "pid":0
+            },
+            "shop":{
+               "index_no":53448,
+               "id":"01023564020",
+               "name":"세븐일레븐 테스트용 지점",
+               "ceo":"홍길동",
+               "cp":"01023564020",
+               "phone":"01023564020",
+               "zipcode":"00000",
+               "address":"강원 삼척시 오십천로 496",
+               "address_extra":"23123",
+               "area":"독도리",
+               "description":null,
+               "lng":"131.8656890566638",
+               "lat":"37.24076013740826",
+               "notifiers":"01041865202,01023564020,01042299005",
+               "auto_approve_type":1,
+               "auto_approve_duration":120,
+               "shipping_include":"[\"경북 울릉군 울릉읍 독도안용복길 3\",\"경북 울릉군 울릉읍 독도리 20-2\"]",
+               "shipping_exclude":"[]",
+               "businessnum":null,
+               "franchisee":null,
+               "franchisee_shop_code":null,
+               "profile_checked_at":"2020-02-04 16:52:21",
+               "company":{
+                  "start_time":"00:10:00",
+                  "end_time":"23:59:00",
+                  "open_time":"06:00:00",
+                  "close_time":"01:00:00",
+                  "holiday":null
+               }
+            },
+            "original_price":1000,
+            "price":700,
+            "quantity":11,
+            "start_time":"17:00",
+            "end_time":"22:00",
+            "auto_type":"N",
+            "auto_type_week":[
+
+            ],
+            "auto_item_count":0,
+            "min_buy_limit":1,
+            "max_buy_limit":2,
+            "description":null,
+            "description_title":null,
+            "pickup_method":[
+               {
+                  "P":"방문포장"
+               },
+               {
+                  "E":"매장식사"
+               }
+            ],
+            "search_keywords":null,
+            "status":"2",
+            "video":null,
+            "created_at":"2019-12-27 11:27:31",
+            "updated_at":"2020-01-21 10:42:11",
+            "images":[
+
+            ],
+            "supplier_code":null,
+            "start_at":null,
+            "end_at":null,
+            "franchisee_code":null,
+            "is_deletable":0,
+            "deleted_at":"2020-01-02 19:08:17",
+            "is_tax":1
+         },
+         {
+            "id":9254,
+            "name":"Test",
+            "thumbnail":null,
+            "category":{
+               "id":1,
+               "name":"치킨,피자",
+               "pid":0
+            },
+            "shop":{
+               "index_no":53448,
+               "id":"01023564020",
+               "name":"세븐일레븐 테스트용 지점",
+               "ceo":"홍길동",
+               "cp":"01023564020",
+               "phone":"01023564020",
+               "zipcode":"00000",
+               "address":"강원 삼척시 오십천로 496",
+               "address_extra":"23123",
+               "area":"독도리",
+               "description":null,
+               "lng":"131.8656890566638",
+               "lat":"37.24076013740826",
+               "notifiers":"01041865202,01023564020,01042299005",
+               "auto_approve_type":1,
+               "auto_approve_duration":120,
+               "shipping_include":"[\"경북 울릉군 울릉읍 독도안용복길 3\",\"경북 울릉군 울릉읍 독도리 20-2\"]",
+               "shipping_exclude":"[]",
+               "businessnum":null,
+               "franchisee":null,
+               "franchisee_shop_code":null,
+               "profile_checked_at":"2020-02-04 16:52:21",
+               "company":{
+                  "start_time":"00:10:00",
+                  "end_time":"23:59:00",
+                  "open_time":"06:00:00",
+                  "close_time":"01:00:00",
+                  "holiday":null
+               }
+            },
+            "original_price":1000,
+            "price":200,
+            "quantity":1,
+            "start_time":"17:00",
+            "end_time":"22:00",
+            "auto_type":"N",
+            "auto_type_week":[
+
+            ],
+            "auto_item_count":0,
+            "min_buy_limit":1,
+            "max_buy_limit":2,
+            "description":"Asd",
+            "description_title":"Sdd",
+            "pickup_method":[
+               {
+                  "E":"매장식사"
+               },
+               {
+                  "P":"방문포장"
+               }
+            ],
+            "search_keywords":"Asd",
+            "status":"2",
+            "video":null,
+            "created_at":"2019-12-19 15:57:19",
+            "updated_at":"2020-01-21 10:42:11",
+            "images":[
+
+            ],
+            "supplier_code":null,
+            "start_at":null,
+            "end_at":null,
+            "franchisee_code":null,
+            "is_deletable":0,
+            "deleted_at":"2020-01-09 12:09:18",
+            "is_tax":1
+         },
+         {
+            "id":9191,
+            "name":"Xx",
+            "thumbnail":null,
+            "category":{
+               "id":1,
+               "name":"치킨,피자",
+               "pid":0
+            },
+            "shop":{
+               "index_no":53448,
+               "id":"01023564020",
+               "name":"세븐일레븐 테스트용 지점",
+               "ceo":"홍길동",
+               "cp":"01023564020",
+               "phone":"01023564020",
+               "zipcode":"00000",
+               "address":"강원 삼척시 오십천로 496",
+               "address_extra":"23123",
+               "area":"독도리",
+               "description":null,
+               "lng":"131.8656890566638",
+               "lat":"37.24076013740826",
+               "notifiers":"01041865202,01023564020,01042299005",
+               "auto_approve_type":1,
+               "auto_approve_duration":120,
+               "shipping_include":"[\"경북 울릉군 울릉읍 독도안용복길 3\",\"경북 울릉군 울릉읍 독도리 20-2\"]",
+               "shipping_exclude":"[]",
+               "businessnum":null,
+               "franchisee":null,
+               "franchisee_shop_code":null,
+               "profile_checked_at":"2020-02-04 16:52:21",
+               "company":{
+                  "start_time":"00:10:00",
+                  "end_time":"23:59:00",
+                  "open_time":"06:00:00",
+                  "close_time":"01:00:00",
+                  "holiday":null
+               }
+            },
+            "original_price":1000,
+            "price":200,
+            "quantity":1,
+            "start_time":"17:00",
+            "end_time":"22:00",
+            "auto_type":"N",
+            "auto_type_week":[
+
+            ],
+            "auto_item_count":0,
+            "min_buy_limit":1,
+            "max_buy_limit":2,
+            "description":null,
+            "description_title":null,
+            "pickup_method":[
+               {
+                  "E":"매장식사"
+               },
+               {
+                  "P":"방문포장"
+               }
+            ],
+            "search_keywords":null,
+            "status":"2",
+            "video":null,
+            "created_at":"2019-12-17 16:10:17",
+            "updated_at":"2020-01-21 10:42:11",
+            "images":[
+
+            ],
+            "supplier_code":null,
+            "start_at":null,
+            "end_at":null,
+            "franchisee_code":null,
+            "is_deletable":0,
+            "deleted_at":"2019-12-17 16:10:32",
+            "is_tax":1
+         },
+         {
+            "id":9171,
+            "name":"주문테스트2",
+            "thumbnail":null,
+            "category":{
+               "id":1,
+               "name":"치킨,피자",
+               "pid":0
+            },
+            "shop":{
+               "index_no":53448,
+               "id":"01023564020",
+               "name":"세븐일레븐 테스트용 지점",
+               "ceo":"홍길동",
+               "cp":"01023564020",
+               "phone":"01023564020",
+               "zipcode":"00000",
+               "address":"강원 삼척시 오십천로 496",
+               "address_extra":"23123",
+               "area":"독도리",
+               "description":null,
+               "lng":"131.8656890566638",
+               "lat":"37.24076013740826",
+               "notifiers":"01041865202,01023564020,01042299005",
+               "auto_approve_type":1,
+               "auto_approve_duration":120,
+               "shipping_include":"[\"경북 울릉군 울릉읍 독도안용복길 3\",\"경북 울릉군 울릉읍 독도리 20-2\"]",
+               "shipping_exclude":"[]",
+               "businessnum":null,
+               "franchisee":null,
+               "franchisee_shop_code":null,
+               "profile_checked_at":"2020-02-04 16:52:21",
+               "company":{
+                  "start_time":"00:10:00",
+                  "end_time":"23:59:00",
+                  "open_time":"06:00:00",
+                  "close_time":"01:00:00",
+                  "holiday":null
+               }
+            },
+            "original_price":1000,
+            "price":500,
+            "quantity":17,
+            "start_time":"09:00",
+            "end_time":"22:00",
+            "auto_type":"N",
+            "auto_type_week":[
+
+            ],
+            "auto_item_count":0,
+            "min_buy_limit":1,
+            "max_buy_limit":2,
+            "description":null,
+            "description_title":null,
+            "pickup_method":[
+               {
+                  "E":"매장식사"
+               },
+               {
+                  "P":"방문포장"
+               }
+            ],
+            "search_keywords":null,
+            "status":"2",
+            "video":null,
+            "created_at":"2019-12-17 10:07:06",
+            "updated_at":"2020-01-21 10:42:11",
+            "images":[
+
+            ],
+            "supplier_code":null,
+            "start_at":null,
+            "end_at":null,
+            "franchisee_code":null,
+            "is_deletable":0,
+            "deleted_at":null,
+            "is_tax":1
+         },
+         {
+            "id":8943,
+            "name":"테스트",
+            "thumbnail":null,
+            "category":{
+               "id":3,
+               "name":"돈까스,일식",
+               "pid":0
+            },
+            "shop":{
+               "index_no":53448,
+               "id":"01023564020",
+               "name":"세븐일레븐 테스트용 지점",
+               "ceo":"홍길동",
+               "cp":"01023564020",
+               "phone":"01023564020",
+               "zipcode":"00000",
+               "address":"강원 삼척시 오십천로 496",
+               "address_extra":"23123",
+               "area":"독도리",
+               "description":null,
+               "lng":"131.8656890566638",
+               "lat":"37.24076013740826",
+               "notifiers":"01041865202,01023564020,01042299005",
+               "auto_approve_type":1,
+               "auto_approve_duration":120,
+               "shipping_include":"[\"경북 울릉군 울릉읍 독도안용복길 3\",\"경북 울릉군 울릉읍 독도리 20-2\"]",
+               "shipping_exclude":"[]",
+               "businessnum":null,
+               "franchisee":null,
+               "franchisee_shop_code":null,
+               "profile_checked_at":"2020-02-04 16:52:21",
+               "company":{
+                  "start_time":"00:10:00",
+                  "end_time":"23:59:00",
+                  "open_time":"06:00:00",
+                  "close_time":"01:00:00",
+                  "holiday":null
+               }
+            },
+            "original_price":25800,
+            "price":2580,
+            "quantity":1,
+            "start_time":"17:00",
+            "end_time":"22:00",
+            "auto_type":"N",
+            "auto_type_week":[
+
+            ],
+            "auto_item_count":0,
+            "min_buy_limit":1,
+            "max_buy_limit":2,
+            "description":null,
+            "description_title":null,
+            "pickup_method":[
+               {
+                  "E":"매장식사"
+               },
+               {
+                  "P":"방문포장"
+               }
+            ],
+            "search_keywords":null,
+            "status":"2",
+            "video":null,
+            "created_at":"2019-12-09 10:24:01",
+            "updated_at":"2020-01-21 10:42:11",
+            "images":[
+
+            ],
+            "supplier_code":null,
+            "start_at":null,
+            "end_at":null,
+            "franchisee_code":null,
+            "is_deletable":0,
+            "deleted_at":"2019-12-17 17:09:28",
+            "is_tax":1
+         },
+         {
+            "id":8740,
+            "name":"테스트상품A",
+            "thumbnail":"https://cdn.lastorder.co.kr/shop/2019/12/02/18/10/sample.png",
+            "category":{
+               "id":2,
+               "name":"족발,보쌈",
+               "pid":0
+            },
+            "shop":{
+               "index_no":53448,
+               "id":"01023564020",
+               "name":"세븐일레븐 테스트용 지점",
+               "ceo":"홍길동",
+               "cp":"01023564020",
+               "phone":"01023564020",
+               "zipcode":"00000",
+               "address":"강원 삼척시 오십천로 496",
+               "address_extra":"23123",
+               "area":"독도리",
+               "description":null,
+               "lng":"131.8656890566638",
+               "lat":"37.24076013740826",
+               "notifiers":"01041865202,01023564020,01042299005",
+               "auto_approve_type":1,
+               "auto_approve_duration":120,
+               "shipping_include":"[\"경북 울릉군 울릉읍 독도안용복길 3\",\"경북 울릉군 울릉읍 독도리 20-2\"]",
+               "shipping_exclude":"[]",
+               "businessnum":null,
+               "franchisee":null,
+               "franchisee_shop_code":null,
+               "profile_checked_at":"2020-02-04 16:52:21",
+               "company":{
+                  "start_time":"00:10:00",
+                  "end_time":"23:59:00",
+                  "open_time":"06:00:00",
+                  "close_time":"01:00:00",
+                  "holiday":null
+               }
+            },
+            "original_price":4000,
+            "price":200,
+            "quantity":11,
+            "start_time":"11:00",
+            "end_time":"17:00",
+            "auto_type":"N",
+            "auto_type_week":[
+
+            ],
+            "auto_item_count":0,
+            "min_buy_limit":1,
+            "max_buy_limit":2,
+            "description":null,
+            "description_title":null,
+            "pickup_method":[
+               {
+                  "P":"방문포장"
+               },
+               {
+                  "E":"매장식사"
+               }
+            ],
+            "search_keywords":null,
+            "status":"2",
+            "video":null,
+            "created_at":"2019-12-02 18:10:55",
+            "updated_at":"2020-01-21 10:42:11",
+            "images":[
+               "https://cdn.lastorder.co.kr/shop/2019/12/02/18/10/images.png"
+            ],
+            "supplier_code":null,
+            "start_at":"2020-01-20 11:00:00",
+            "end_at":"2020-01-20 17:00:00",
+            "franchisee_code":"",
+            "is_deletable":0,
+            "deleted_at":null,
+            "is_tax":1
+         },
+         {
+            "id":8738,
+            "name":"테스트업주등록1202",
+            "thumbnail":null,
+            "category":{
+               "id":1,
+               "name":"치킨,피자",
+               "pid":0
+            },
+            "shop":{
+               "index_no":53448,
+               "id":"01023564020",
+               "name":"세븐일레븐 테스트용 지점",
+               "ceo":"홍길동",
+               "cp":"01023564020",
+               "phone":"01023564020",
+               "zipcode":"00000",
+               "address":"강원 삼척시 오십천로 496",
+               "address_extra":"23123",
+               "area":"독도리",
+               "description":null,
+               "lng":"131.8656890566638",
+               "lat":"37.24076013740826",
+               "notifiers":"01041865202,01023564020,01042299005",
+               "auto_approve_type":1,
+               "auto_approve_duration":120,
+               "shipping_include":"[\"경북 울릉군 울릉읍 독도안용복길 3\",\"경북 울릉군 울릉읍 독도리 20-2\"]",
+               "shipping_exclude":"[]",
+               "businessnum":null,
+               "franchisee":null,
+               "franchisee_shop_code":null,
+               "profile_checked_at":"2020-02-04 16:52:21",
+               "company":{
+                  "start_time":"00:10:00",
+                  "end_time":"23:59:00",
+                  "open_time":"06:00:00",
+                  "close_time":"01:00:00",
+                  "holiday":null
+               }
+            },
+            "original_price":100,
+            "price":70,
+            "quantity":3,
+            "start_time":"15:30",
+            "end_time":"22:00",
+            "auto_type":"N",
+            "auto_type_week":[
+
+            ],
+            "auto_item_count":0,
+            "min_buy_limit":1,
+            "max_buy_limit":2,
+            "description":null,
+            "description_title":"ㅅㄷㄴㅅ",
+            "pickup_method":[
+               {
+                  "E":"매장식사"
+               },
+               {
+                  "P":"방문포장"
+               }
+            ],
+            "search_keywords":null,
+            "status":"2",
+            "video":null,
+            "created_at":"2019-12-02 17:48:51",
+            "updated_at":"2020-01-21 10:42:11",
+            "images":[
+
+            ],
+            "supplier_code":null,
+            "start_at":null,
+            "end_at":null,
+            "franchisee_code":null,
+            "is_deletable":0,
+            "deleted_at":"2019-12-02 17:49:11",
+            "is_tax":1
+         },
+         {
+            "id":8737,
+            "name":"테스트김업주",
+            "thumbnail":"https://cdn.lastorder.co.kr/shop/2019/12/02/16/55/1575273336794.png",
+            "category":{
+               "id":1,
+               "name":"치킨,피자",
+               "pid":0
+            },
+            "shop":{
+               "index_no":53448,
+               "id":"01023564020",
+               "name":"세븐일레븐 테스트용 지점",
+               "ceo":"홍길동",
+               "cp":"01023564020",
+               "phone":"01023564020",
+               "zipcode":"00000",
+               "address":"강원 삼척시 오십천로 496",
+               "address_extra":"23123",
+               "area":"독도리",
+               "description":null,
+               "lng":"131.8656890566638",
+               "lat":"37.24076013740826",
+               "notifiers":"01041865202,01023564020,01042299005",
+               "auto_approve_type":1,
+               "auto_approve_duration":120,
+               "shipping_include":"[\"경북 울릉군 울릉읍 독도안용복길 3\",\"경북 울릉군 울릉읍 독도리 20-2\"]",
+               "shipping_exclude":"[]",
+               "businessnum":null,
+               "franchisee":null,
+               "franchisee_shop_code":null,
+               "profile_checked_at":"2020-02-04 16:52:21",
+               "company":{
+                  "start_time":"00:10:00",
+                  "end_time":"23:59:00",
+                  "open_time":"06:00:00",
+                  "close_time":"01:00:00",
+                  "holiday":null
+               }
+            },
+            "original_price":25800,
+            "price":100,
+            "quantity":1,
+            "start_time":"13:00",
+            "end_time":"23:00",
+            "auto_type":"N",
+            "auto_type_week":[
+               "1",
+               "2",
+               "3",
+               "4"
+            ],
+            "auto_item_count":1,
+            "min_buy_limit":1,
+            "max_buy_limit":2,
+            "description":"내용",
+            "description_title":"제목",
+            "pickup_method":[
+               {
+                  "P":"방문포장"
+               },
+               {
+                  "E":"매장식사"
+               }
+            ],
+            "search_keywords":"키워드",
+            "status":"2",
+            "video":null,
+            "created_at":"2019-12-02 16:56:09",
+            "updated_at":"2020-01-21 10:42:11",
+            "images":[
+               "https://cdn.lastorder.co.kr/shop/2019/12/02/16/55/1575273358205.png",
+               "https://cdn.lastorder.co.kr/shop/2019/12/02/16/55/1575273358165.png"
+            ],
+            "supplier_code":null,
+            "start_at":"2020-01-16 13:00:00",
+            "end_at":"2020-01-16 23:00:00",
+            "franchisee_code":"",
+            "is_deletable":0,
+            "deleted_at":"2020-01-16 19:43:05",
+            "is_tax":1
+         },
+         {
+            "id":8579,
+            "name":"이미지 테스트",
+            "thumbnail":null,
+            "category":{
+               "id":1,
+               "name":"치킨,피자",
+               "pid":0
+            },
+            "shop":{
+               "index_no":53448,
+               "id":"01023564020",
+               "name":"세븐일레븐 테스트용 지점",
+               "ceo":"홍길동",
+               "cp":"01023564020",
+               "phone":"01023564020",
+               "zipcode":"00000",
+               "address":"강원 삼척시 오십천로 496",
+               "address_extra":"23123",
+               "area":"독도리",
+               "description":null,
+               "lng":"131.8656890566638",
+               "lat":"37.24076013740826",
+               "notifiers":"01041865202,01023564020,01042299005",
+               "auto_approve_type":1,
+               "auto_approve_duration":120,
+               "shipping_include":"[\"경북 울릉군 울릉읍 독도안용복길 3\",\"경북 울릉군 울릉읍 독도리 20-2\"]",
+               "shipping_exclude":"[]",
+               "businessnum":null,
+               "franchisee":null,
+               "franchisee_shop_code":null,
+               "profile_checked_at":"2020-02-04 16:52:21",
+               "company":{
+                  "start_time":"00:10:00",
+                  "end_time":"23:59:00",
+                  "open_time":"06:00:00",
+                  "close_time":"01:00:00",
+                  "holiday":null
+               }
+            },
+            "original_price":1000,
+            "price":1000,
+            "quantity":1,
+            "start_time":"15:00",
+            "end_time":"17:00",
+            "auto_type":"N",
+            "auto_type_week":[
+               "1",
+               "2",
+               "3",
+               "4",
+               "5"
+            ],
+            "auto_item_count":1,
+            "min_buy_limit":1,
+            "max_buy_limit":2,
+            "description":null,
+            "description_title":null,
+            "pickup_method":[
+               {
+                  "P":"방문포장"
+               }
+            ],
+            "search_keywords":null,
+            "status":"2",
+            "video":null,
+            "created_at":"2019-11-25 14:59:07",
+            "updated_at":"2020-01-21 10:42:11",
+            "images":[
+               "http://i.lastorder.in/tmp/2019/11/25/14/d1fdd68abafaf479169001d292629c319cd1f0e3.jpg",
+               "http://i.lastorder.in/tmp/2019/11/25/14/a07abc6a22ac25cc625bf22d6bf0698371ba54c6.jpg"
+            ],
+            "supplier_code":null,
+            "start_at":null,
+            "end_at":null,
+            "franchisee_code":null,
+            "is_deletable":0,
+            "deleted_at":"2019-11-25 15:22:31",
+            "is_tax":1
+         },
+         {
+            "id":8576,
+            "name":"테스트",
+            "thumbnail":"https://i.lastorder.in/tmp/2019/11/25/11/tmp/68ae0aa5033f1fe9d7935adca1c4f4244b4a60ec.jpeg",
+            "category":{
+               "id":1,
+               "name":"치킨,피자",
+               "pid":0
+            },
+            "shop":{
+               "index_no":53448,
+               "id":"01023564020",
+               "name":"세븐일레븐 테스트용 지점",
+               "ceo":"홍길동",
+               "cp":"01023564020",
+               "phone":"01023564020",
+               "zipcode":"00000",
+               "address":"강원 삼척시 오십천로 496",
+               "address_extra":"23123",
+               "area":"독도리",
+               "description":null,
+               "lng":"131.8656890566638",
+               "lat":"37.24076013740826",
+               "notifiers":"01041865202,01023564020,01042299005",
+               "auto_approve_type":1,
+               "auto_approve_duration":120,
+               "shipping_include":"[\"경북 울릉군 울릉읍 독도안용복길 3\",\"경북 울릉군 울릉읍 독도리 20-2\"]",
+               "shipping_exclude":"[]",
+               "businessnum":null,
+               "franchisee":null,
+               "franchisee_shop_code":null,
+               "profile_checked_at":"2020-02-04 16:52:21",
+               "company":{
+                  "start_time":"00:10:00",
+                  "end_time":"23:59:00",
+                  "open_time":"06:00:00",
+                  "close_time":"01:00:00",
+                  "holiday":null
+               }
+            },
+            "original_price":1000,
+            "price":200,
+            "quantity":1,
+            "start_time":"00:20",
+            "end_time":"23:00",
+            "auto_type":"N",
+            "auto_type_week":[
+               "1",
+               "2",
+               "3",
+               "4",
+               "5"
+            ],
+            "auto_item_count":1,
+            "min_buy_limit":1,
+            "max_buy_limit":2,
+            "description":null,
+            "description_title":null,
+            "pickup_method":[
+               {
+                  "P":"방문포장"
+               }
+            ],
+            "search_keywords":null,
+            "status":"2",
+            "video":null,
+            "created_at":"2019-11-25 11:14:41",
+            "updated_at":"2020-01-21 10:42:11",
+            "images":[
+               "https://i.lastorder.in/tmp/2019/11/25/11/tmp/55175ceb35b1a4b7a15d9e012d68c57f527498d1.jpeg"
+            ],
+            "supplier_code":null,
+            "start_at":null,
+            "end_at":null,
+            "franchisee_code":null,
+            "is_deletable":0,
+            "deleted_at":"2019-11-25 11:19:42",
+            "is_tax":1
+         },
+         {
+            "id":8553,
+            "name":"배달상품테스트",
+            "thumbnail":null,
+            "category":{
+               "id":11,
+               "name":"떡,기타",
+               "pid":0
+            },
+            "shop":{
+               "index_no":53448,
+               "id":"01023564020",
+               "name":"세븐일레븐 테스트용 지점",
+               "ceo":"홍길동",
+               "cp":"01023564020",
+               "phone":"01023564020",
+               "zipcode":"00000",
+               "address":"강원 삼척시 오십천로 496",
+               "address_extra":"23123",
+               "area":"독도리",
+               "description":null,
+               "lng":"131.8656890566638",
+               "lat":"37.24076013740826",
+               "notifiers":"01041865202,01023564020,01042299005",
+               "auto_approve_type":1,
+               "auto_approve_duration":120,
+               "shipping_include":"[\"경북 울릉군 울릉읍 독도안용복길 3\",\"경북 울릉군 울릉읍 독도리 20-2\"]",
+               "shipping_exclude":"[]",
+               "businessnum":null,
+               "franchisee":null,
+               "franchisee_shop_code":null,
+               "profile_checked_at":"2020-02-04 16:52:21",
+               "company":{
+                  "start_time":"00:10:00",
+                  "end_time":"23:59:00",
+                  "open_time":"06:00:00",
+                  "close_time":"01:00:00",
+                  "holiday":null
+               }
+            },
+            "original_price":1000,
+            "price":700,
+            "quantity":12,
+            "start_time":null,
+            "end_time":null,
+            "auto_type":"N",
+            "auto_type_week":[
+               "1",
+               "2",
+               "3",
+               "4",
+               "5"
+            ],
+            "auto_item_count":1,
+            "min_buy_limit":1,
+            "max_buy_limit":2,
+            "description":null,
+            "description_title":null,
+            "pickup_method":[
+               {
+                  "D":"배달"
+               }
+            ],
+            "search_keywords":null,
+            "status":"2",
+            "video":null,
+            "created_at":"2019-11-22 20:17:18",
+            "updated_at":"2020-01-21 10:42:11",
+            "images":[
+
+            ],
+            "supplier_code":null,
+            "start_at":null,
+            "end_at":null,
+            "franchisee_code":null,
+            "is_deletable":0,
+            "deleted_at":null,
+            "is_tax":1
+         },
+         {
+            "id":8552,
+            "name":"배송상품테스트",
+            "thumbnail":null,
+            "category":{
+               "id":11,
+               "name":"떡,기타",
+               "pid":0
+            },
+            "shop":{
+               "index_no":53448,
+               "id":"01023564020",
+               "name":"세븐일레븐 테스트용 지점",
+               "ceo":"홍길동",
+               "cp":"01023564020",
+               "phone":"01023564020",
+               "zipcode":"00000",
+               "address":"강원 삼척시 오십천로 496",
+               "address_extra":"23123",
+               "area":"독도리",
+               "description":null,
+               "lng":"131.8656890566638",
+               "lat":"37.24076013740826",
+               "notifiers":"01041865202,01023564020,01042299005",
+               "auto_approve_type":1,
+               "auto_approve_duration":120,
+               "shipping_include":"[\"경북 울릉군 울릉읍 독도안용복길 3\",\"경북 울릉군 울릉읍 독도리 20-2\"]",
+               "shipping_exclude":"[]",
+               "businessnum":null,
+               "franchisee":null,
+               "franchisee_shop_code":null,
+               "profile_checked_at":"2020-02-04 16:52:21",
+               "company":{
+                  "start_time":"00:10:00",
+                  "end_time":"23:59:00",
+                  "open_time":"06:00:00",
+                  "close_time":"01:00:00",
+                  "holiday":null
+               }
+            },
+            "original_price":1000,
+            "price":700,
+            "quantity":18,
+            "start_time":"10:45",
+            "end_time":"10:45",
+            "auto_type":"N",
+            "auto_type_week":[
+               "1",
+               "2",
+               "3",
+               "4",
+               "5"
+            ],
+            "auto_item_count":-5,
+            "min_buy_limit":1,
+            "max_buy_limit":2,
+            "description":null,
+            "description_title":null,
+            "pickup_method":[
+               {
+                  "E":"매장식사"
+               },
+               {
+                  "P":"방문포장"
+               },
+               {
+                  "S":"배송"
+               }
+            ],
+            "search_keywords":null,
+            "status":"2",
+            "video":null,
+            "created_at":"2019-11-22 20:16:26",
+            "updated_at":"2020-01-21 10:42:11",
+            "images":[
+
+            ],
+            "supplier_code":null,
+            "start_at":null,
+            "end_at":null,
+            "franchisee_code":null,
+            "is_deletable":0,
+            "deleted_at":null,
+            "is_tax":1
+         },
+         {
+            "id":8538,
+            "name":"배송상품",
+            "thumbnail":null,
+            "category":{
+               "id":11,
+               "name":"떡,기타",
+               "pid":0
+            },
+            "shop":{
+               "index_no":53448,
+               "id":"01023564020",
+               "name":"세븐일레븐 테스트용 지점",
+               "ceo":"홍길동",
+               "cp":"01023564020",
+               "phone":"01023564020",
+               "zipcode":"00000",
+               "address":"강원 삼척시 오십천로 496",
+               "address_extra":"23123",
+               "area":"독도리",
+               "description":null,
+               "lng":"131.8656890566638",
+               "lat":"37.24076013740826",
+               "notifiers":"01041865202,01023564020,01042299005",
+               "auto_approve_type":1,
+               "auto_approve_duration":120,
+               "shipping_include":"[\"경북 울릉군 울릉읍 독도안용복길 3\",\"경북 울릉군 울릉읍 독도리 20-2\"]",
+               "shipping_exclude":"[]",
+               "businessnum":null,
+               "franchisee":null,
+               "franchisee_shop_code":null,
+               "profile_checked_at":"2020-02-04 16:52:21",
+               "company":{
+                  "start_time":"00:10:00",
+                  "end_time":"23:59:00",
+                  "open_time":"06:00:00",
+                  "close_time":"01:00:00",
+                  "holiday":null
+               }
+            },
+            "original_price":1000,
+            "price":700,
+            "quantity":1001,
+            "start_time":null,
+            "end_time":null,
+            "auto_type":"N",
+            "auto_type_week":[
+               "1",
+               "2",
+               "3",
+               "4",
+               "5",
+               "6",
+               "7"
+            ],
+            "auto_item_count":1000,
+            "min_buy_limit":1,
+            "max_buy_limit":20,
+            "description":null,
+            "description_title":null,
+            "pickup_method":[
+               {
+                  "S":"배송"
+               }
+            ],
+            "search_keywords":null,
+            "status":"2",
+            "video":null,
+            "created_at":"2019-11-22 15:21:40",
+            "updated_at":"2020-01-21 10:42:11",
+            "images":[
+
+            ],
+            "supplier_code":null,
+            "start_at":null,
+            "end_at":null,
+            "franchisee_code":null,
+            "is_deletable":0,
+            "deleted_at":"2019-11-22 15:22:30",
+            "is_tax":1
+         },
+         {
+            "id":8466,
+            "name":"상품추가테스트",
+            "thumbnail":null,
+            "category":{
+               "id":5,
+               "name":"카페,빵집",
+               "pid":0
+            },
+            "shop":{
+               "index_no":53448,
+               "id":"01023564020",
+               "name":"세븐일레븐 테스트용 지점",
+               "ceo":"홍길동",
+               "cp":"01023564020",
+               "phone":"01023564020",
+               "zipcode":"00000",
+               "address":"강원 삼척시 오십천로 496",
+               "address_extra":"23123",
+               "area":"독도리",
+               "description":null,
+               "lng":"131.8656890566638",
+               "lat":"37.24076013740826",
+               "notifiers":"01041865202,01023564020,01042299005",
+               "auto_approve_type":1,
+               "auto_approve_duration":120,
+               "shipping_include":"[\"경북 울릉군 울릉읍 독도안용복길 3\",\"경북 울릉군 울릉읍 독도리 20-2\"]",
+               "shipping_exclude":"[]",
+               "businessnum":null,
+               "franchisee":null,
+               "franchisee_shop_code":null,
+               "profile_checked_at":"2020-02-04 16:52:21",
+               "company":{
+                  "start_time":"00:10:00",
+                  "end_time":"23:59:00",
+                  "open_time":"06:00:00",
+                  "close_time":"01:00:00",
+                  "holiday":null
+               }
+            },
+            "original_price":1000,
+            "price":700,
+            "quantity":1,
+            "start_time":"17:00",
+            "end_time":"22:00",
+            "auto_type":"N",
+            "auto_type_week":[
+
+            ],
+            "auto_item_count":0,
+            "min_buy_limit":1,
+            "max_buy_limit":2,
+            "description":"테스트수정",
+            "description_title":null,
+            "pickup_method":[
+               {
+                  "E":"매장식사"
+               },
+               {
+                  "P":"방문포장"
+               }
+            ],
+            "search_keywords":null,
+            "status":"2",
+            "video":null,
+            "created_at":"2019-11-20 15:35:09",
+            "updated_at":"2020-01-21 10:42:11",
+            "images":[
+
+            ],
+            "supplier_code":null,
+            "start_at":null,
+            "end_at":null,
+            "franchisee_code":null,
+            "is_deletable":0,
+            "deleted_at":"2019-11-20 15:37:50",
+            "is_tax":1
+         },
+         {
+            "id":8463,
+            "name":"상품테스트191120(방포)",
+            "thumbnail":null,
+            "category":{
+               "id":11,
+               "name":"떡,기타",
+               "pid":0
+            },
+            "shop":{
+               "index_no":53448,
+               "id":"01023564020",
+               "name":"세븐일레븐 테스트용 지점",
+               "ceo":"홍길동",
+               "cp":"01023564020",
+               "phone":"01023564020",
+               "zipcode":"00000",
+               "address":"강원 삼척시 오십천로 496",
+               "address_extra":"23123",
+               "area":"독도리",
+               "description":null,
+               "lng":"131.8656890566638",
+               "lat":"37.24076013740826",
+               "notifiers":"01041865202,01023564020,01042299005",
+               "auto_approve_type":1,
+               "auto_approve_duration":120,
+               "shipping_include":"[\"경북 울릉군 울릉읍 독도안용복길 3\",\"경북 울릉군 울릉읍 독도리 20-2\"]",
+               "shipping_exclude":"[]",
+               "businessnum":null,
+               "franchisee":null,
+               "franchisee_shop_code":null,
+               "profile_checked_at":"2020-02-04 16:52:21",
+               "company":{
+                  "start_time":"00:10:00",
+                  "end_time":"23:59:00",
+                  "open_time":"06:00:00",
+                  "close_time":"01:00:00",
+                  "holiday":null
+               }
+            },
+            "original_price":1000,
+            "price":700,
+            "quantity":15,
+            "start_time":"09:50",
+            "end_time":"22:00",
+            "auto_type":"N",
+            "auto_type_week":[
+
+            ],
+            "auto_item_count":0,
+            "min_buy_limit":1,
+            "max_buy_limit":2,
+            "description":"상품추가 테스트",
+            "description_title":null,
+            "pickup_method":[
+               {
+                  "P":"방문포장"
+               }
+            ],
+            "search_keywords":null,
+            "status":"2",
+            "video":null,
+            "created_at":"2019-11-20 10:06:02",
+            "updated_at":"2020-01-21 10:42:11",
+            "images":[
+
+            ],
+            "supplier_code":null,
+            "start_at":null,
+            "end_at":null,
+            "franchisee_code":null,
+            "is_deletable":0,
+            "deleted_at":null,
+            "is_tax":1
+         }
+      ]
+   }
+}
