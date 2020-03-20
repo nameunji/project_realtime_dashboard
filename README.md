@@ -18,4 +18,11 @@
 ## Document 
 <span style="font-size:14px;">[바로가기](https://wegoplate.postman.co/workspaces/71b92360-b844-4a0e-adff-6864c7c2bf81/collections)</span>
 
+<br>
+
+## 프로젝트 PPT
+<span style="font-size:14px;">[바로가기](https://drive.google.com/open?id=1ozFGx6SW_7Uq2L9It14u7DV38ltW0Tfa)</span>
+
+
+
 
